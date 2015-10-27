@@ -1,0 +1,10 @@
+[26-May-2015 01:09:32 America/New_York] PHP Fatal error:  Call to a member function free() on a non-object in /home/mlearning/public_html/admin/inc/prc/salon.php on line 26
+[26-May-2015 01:36:14 America/New_York] PHP Fatal error:  Cannot redeclare sqli() (previously declared in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php:4) in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php on line 16
+[26-May-2015 01:41:02 America/New_York] PHP Fatal error:  Cannot redeclare sqli() (previously declared in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php:4) in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php on line 16
+[26-May-2015 01:42:20 America/New_York] PHP Fatal error:  Cannot redeclare sqli() (previously declared in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php:4) in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php on line 16
+[28-May-2015 02:39:38 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php on line 140
+[28-May-2015 02:39:51 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php on line 140
+[28-May-2015 02:40:01 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php on line 140
+[28-May-2015 03:56:30 America/New_York] PHP Fatal error:  Call to undefined function AsignaCargaAca() in /home/mlearning/public_html/admin/inc/prc/horario.php on line 18
+[28-May-2015 04:04:34 America/New_York] PHP Fatal error:  Call to undefined function AsignaCargaAca() in /home/mlearning/public_html/admin/inc/prc/horario.php on line 18
+[22-Jul-2015 14:13:27 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mlearning/public_html/admin/inc/fnc/fnc_slc.php on line 337
